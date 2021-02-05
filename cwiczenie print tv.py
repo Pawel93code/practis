@@ -1,0 +1,9 @@
+print('I like computer','TVP1', 'TVP2', 'TVN', 'Polsat', 'BBC', 'HBO', 'MTV', sep=" but better is ")
+ProgramName = 'BBC'
+Item = 'News'
+Time = '18:00'
+print('I like watching', Item, 'at', Time, 'on', ProgramName, end='.\n')
+ProgramName = 'TVP1'
+Item = 'Wiadomosci'
+Time = '19:00'
+print('In my opinion', ProgramName, 'and', Item, 'at', Time, 'is bullshit', end='.\n')
